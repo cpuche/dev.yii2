@@ -1,2 +1,2 @@
-dev.yii2
+Laboratorio GitHub
 ========
